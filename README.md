@@ -2,7 +2,7 @@
 
 a app show history for the same date in past years
 
-![screenRecord](/Users/eric/Pictures/screenRecord.gif)
+![screenRecord](screenRecord.gif)
 
 
 ## Getting Started
