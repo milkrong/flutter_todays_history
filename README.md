@@ -2,6 +2,9 @@
 
 a app show history for the same date in past years
 
+![screenRecord](/Users/eric/Pictures/screenRecord.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
