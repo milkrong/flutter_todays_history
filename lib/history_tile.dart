@@ -13,6 +13,8 @@ class HistoryTile extends StatelessWidget {
         ListTile(
           title: Text(
               _history.title,
+              maxLines: 1,
+              overflow: TextOverflow.ellipsis,
               style: TextStyle(
                 fontSize: 20.0
               ),

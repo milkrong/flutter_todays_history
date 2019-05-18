@@ -31,7 +31,7 @@ class HomePageState extends State<HomePage> {
           switch (snapshot.connectionState) {
             case ConnectionState.none:
             case ConnectionState.waiting:
-              return new Text("Loading");
+              return Center(child: CircularProgressIndicator(),);
             default:
               return new ListView.builder(
                   itemCount: histories.length,
